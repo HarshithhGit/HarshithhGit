@@ -29,11 +29,7 @@ Too Lazy !! Then just read this below to know me
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarshithhGit&theme=panda&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=HarshithhGit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://komarev.com/ghpvc/?username=HarshithhGit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### ✍️ Random Dev Quote
